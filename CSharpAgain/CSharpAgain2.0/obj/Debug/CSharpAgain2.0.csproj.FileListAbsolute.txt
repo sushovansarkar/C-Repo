@@ -1,0 +1,6 @@
+D:\Programming\C#\CSharpAgain\CSharpAgain2.0\bin\Debug\CSharpAgain2.0.exe.config
+D:\Programming\C#\CSharpAgain\CSharpAgain2.0\bin\Debug\CSharpAgain2.0.exe
+D:\Programming\C#\CSharpAgain\CSharpAgain2.0\bin\Debug\CSharpAgain2.0.pdb
+D:\Programming\C#\CSharpAgain\CSharpAgain2.0\obj\Debug\CSharpAgain2.0.exe
+D:\Programming\C#\CSharpAgain\CSharpAgain2.0\obj\Debug\CSharpAgain2.0.pdb
+D:\Programming\C#\CSharpAgain\CSharpAgain2.0\obj\Debug\CSharpAgain2.0.csprojResolveAssemblyReference.cache

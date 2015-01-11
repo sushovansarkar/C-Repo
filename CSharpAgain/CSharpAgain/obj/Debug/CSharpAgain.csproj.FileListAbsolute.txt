@@ -1,0 +1,5 @@
+D:\Programming\C#\CSharpAgain\CSharpAgain\bin\Debug\CSharpAgain.exe.config
+D:\Programming\C#\CSharpAgain\CSharpAgain\bin\Debug\CSharpAgain.exe
+D:\Programming\C#\CSharpAgain\CSharpAgain\bin\Debug\CSharpAgain.pdb
+D:\Programming\C#\CSharpAgain\CSharpAgain\obj\Debug\CSharpAgain.exe
+D:\Programming\C#\CSharpAgain\CSharpAgain\obj\Debug\CSharpAgain.pdb
